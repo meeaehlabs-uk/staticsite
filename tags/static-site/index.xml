@@ -13,7 +13,7 @@
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/it-works/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;h2 id=&#34;if-your-reading-this-it-worked-&#34;&gt;If your reading this it worked !!!&lt;/h2&gt;
 &lt;p&gt;[&lt;img src=&#34;https://media.tenor.com/bhAkIDazQS8AAAAM/it-kevin.gif&#34; alt=&#34;It Worked GIFs | Tenor&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Amazing you&amp;rsquo;ve now got your own static website hosted in docker but don&amp;rsquo;t stop now try running it from your own repo using the below command. Don&amp;rsquo;t forget to change the repo URL
 &lt;em&gt;Note this only works for public repos&lt;/em&gt;&lt;/p&gt;
@@ -23,7 +23,7 @@
     --name my-static-site \
     meeaehlabs/static-site:latest
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;If you have a &lt;strong&gt;Private Repo&lt;/strong&gt; you need to use the below command&lt;/p&gt;</description>
-      <content>&lt;!-- raw HTML omitted --&gt;
+      <content>&lt;h2 id=&#34;if-your-reading-this-it-worked-&#34;&gt;If your reading this it worked !!!&lt;/h2&gt;
 &lt;p&gt;[&lt;img src=&#34;https://media.tenor.com/bhAkIDazQS8AAAAM/it-kevin.gif&#34; alt=&#34;It Worked GIFs | Tenor&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Amazing you&amp;rsquo;ve now got your own static website hosted in docker but don&amp;rsquo;t stop now try running it from your own repo using the below command. Don&amp;rsquo;t forget to change the repo URL
 &lt;em&gt;Note this only works for public repos&lt;/em&gt;&lt;/p&gt;
